@@ -1,5 +1,4 @@
 #sectionPrinciapl{
-    background-color:black;
     padding-top: 20px;
     padding-bottom: 20px;
     background: url(https://s1.eestatic.com/2020/10/12/actualidad/actualidad_527708533_162371848_1024x576.jpg);
@@ -9,6 +8,10 @@
     width: 50px;
 }
 
-.igual {
-    height: 85px !important;
+.card{
+    background-color: black;
+}
+
+.form-control{
+    width: 315px;
 }
