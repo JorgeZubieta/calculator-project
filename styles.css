@@ -1,7 +1,14 @@
+body{
+    background: url(https://s1.eestatic.com/2020/10/12/actualidad/actualidad_527708533_162371848_1024x576.jpg);
+    background-repeat: no-repeat; /* que no se repita */
+    background-size: cover; /* que se adapte al contenedor */
+    height: auto;/* que se adpte a un alto automatico, se pued poner 100% */
+
+}
+
 #sectionPrinciapl{
     padding-top: 20px;
     padding-bottom: 20px;
-    background: url(https://s1.eestatic.com/2020/10/12/actualidad/actualidad_527708533_162371848_1024x576.jpg);
 }
 
 .btn{
