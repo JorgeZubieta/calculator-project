@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat; /* que no se repita */
     background-size: cover; /* que se adapte al contenedor */
     height: auto;/* que se adpte a un alto automatico, se pued poner 100% */
-
+    background-position: center;
 }
 
 #sectionPrinciapl{
@@ -21,4 +21,8 @@ body{
 
 .form-control{
     width: 315px;
+}
+
+html {
+    height: 100%
 }
