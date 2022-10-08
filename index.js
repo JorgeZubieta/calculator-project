@@ -1,15 +1,17 @@
-// caso combiando
-let numero = 2;
-let numero2 = 5;
+// 1 - obtenemos los datos de los clic que hizo el usuario y que operacion elijio
 
-// tma asignaciones combinadas
+// 2 - identificar botones y tener rutas de acceso a cada elemento y acceso al displayq ue va a mostrar el resultado
 
-let resultado = numero + nuemero2;
-console.log(resultado); 
-// sale e el consola
+// 3 - opero y pongo el resultado
 
-// para que salga en el html usamos el  document.....
 
-// dato por consola
-// azul numerico
-// blanco String
+// LOGICA :
+// 1 + 3 como accedo a este elemento
+// debemos cargar esto en un array el mismo es lfexible ne java script obejtos de distintos tipos
+
+const n1 = document.getElementById('1').value;
+console.log(n1);
+
+const n3 = document.getElementById('3').value;
+console.log(n3); 
+
