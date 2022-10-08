@@ -22,13 +22,12 @@ body{
 h6{
     padding-top: 1rem;
     padding-left: 1rem;
-    color: rgb(153, 151, 151);
+    color: rgb(230, 226, 226);
 }
 
 .form-control{
     width: 300px;
     text-align: right;
-    padding-right: 100px;
 }
 
 html {
