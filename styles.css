@@ -1,3 +1,7 @@
+html {
+  height: 150%
+}
+
 body{
     background: url(https://s1.eestatic.com/2020/10/12/actualidad/actualidad_527708533_162371848_1024x576.jpg);
     background-repeat: no-repeat; /* que no se repita */
@@ -7,13 +11,10 @@ body{
 }
 
 #sectionPrinciapl{
-    padding-top: 20px;
+    padding-top: 40px;
     padding-bottom: 20px;
 }
 
-.btn{
-    width: 50px;
-}
 
 .card{
     background-color: black;
@@ -30,9 +31,13 @@ h6{
     text-align: right;
 }
 
-html {
-    height: 150%
+.btn{
+  width: 50px;
+  margin-bottom: 3px;
+  border-radius: 50px;
 }
+
+
 
 /* ____________new______________ */
 .buttons-container {
