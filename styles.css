@@ -15,7 +15,6 @@ body{
     padding-bottom: 20px;
 }
 
-
 .card{
     background-color: black;
     border-radius: 15px;
@@ -44,9 +43,6 @@ h6{
   border-radius: 50px;
 }
 
-
-
-/* ____________new______________ */
 .buttons-container {
     display: flex;
     justify-content: center;
@@ -58,12 +54,3 @@ h6{
 .btn-double {
     height: 76px;
 }
-  
-  /* MEDIA QUERIES */
-  
-  /* @media (max-width: 768px) {
-    .calculator-container {
-      margin: 60px 0;
-      width: 100%;
-      max-width: 350px;
-    }

@@ -9,9 +9,7 @@
 // 1 + 3 como accedo a este elemento
 // debemos cargar esto en un array el mismo es lfexible ne java script obejtos de distintos tipos
 
-const n1 = document.getElementById('1').value;
+const n1 = document.getElementById("1") ;
 console.log(n1);
 
-const n3 = document.getElementById('3').value;
-console.log(n3); 
 
